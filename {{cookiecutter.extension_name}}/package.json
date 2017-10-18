@@ -14,7 +14,12 @@
     "prepublish": "npm run build"
   },
   "files": [
+<<<<<<< Updated upstream
     "lib/**/*.{d.ts,eot,gif,html,jpg,js,js.map,json,png,svg,woff2,ttf}"
+=======
+    "lib/**/*.{d.ts,eot,gif,html,jpg,js,js.map,json,png,svg,woff2,ttf}",
+    "style/**/*.{css,eot,gif,html,jpg,json,png,svg,woff2,ttf}"
+>>>>>>> Stashed changes
   ],
   "jupyterlab": {
     "extension": true
